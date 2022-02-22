@@ -3,7 +3,7 @@ import { getUnixTime } from "date-fns";
 import { FastifyInstance } from "fastify";
 import { v4 as uuid } from "uuid";
 import Event from "../interfaces/event.js";
-import Person from "../interfaces/Person.js";
+import Person from "../interfaces/person.js";
 import {
   collections,
   findOneEntire,

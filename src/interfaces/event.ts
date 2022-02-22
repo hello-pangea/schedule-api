@@ -1,4 +1,4 @@
-import Person from "./Person.js";
+import Person from "./person.js";
 
 export default interface Event {
   /** Uuid */
